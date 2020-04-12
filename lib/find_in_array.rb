@@ -11,3 +11,4 @@ def find_element_index(array, value_to_find)
  else puts "#{value_to_find} is not in our array"
  end
 end
+
