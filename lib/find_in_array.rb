@@ -10,6 +10,7 @@ def find_element_index(array, value_to_find)
        end
      binding.pry  
  else puts "#{value_to_find} is not in our array"
+ end
 end
 
 #takes in an array of integers & a value to find
